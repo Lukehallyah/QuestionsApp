@@ -18,7 +18,80 @@ function AddQuestion(category, question){
 
 
 new AddQuestion("?");
-new AddQuestion("casual", "What is your favorite childhood memory?")
+new AddQuestion("casual","?");
+new AddQuestion("relationship","?");
+new AddQuestion("casual","What genre of music is your favorite?");
+new AddQuestion("casual","Where do you like to go or visit when you want to clear your head?");
+new AddQuestion("casual","What do you feel, is the meaning of life, what is life all about to you?");
+new AddQuestion("casual","If money was no object, how many pets would you have?");
+new AddQuestion("casual","If you could hang out with someone who passed away for one day, who would it be?");
+new AddQuestion("relationship","What is something about me that makes you feel safe?");
+new AddQuestion("casual","Would you rather spend a day reading and watching tv or going to eat and resting by the beach?");
+new AddQuestion("casual","What is your favorite song in the whole world?");
+new AddQuestion("casual","If you could change something about your country, what would it be and why?");
+new AddQuestion("casual","What is something you noticed has changed in society as you've gotten older?");
+new AddQuestion("casual","What is something you feel is important to not forget as you get older?");
+new AddQuestion("casual","What is your favorite place to go to get something to eat?");
+new AddQuestion("casual","What is your absolute favorite food to order when you're out?");
+new AddQuestion("casual","Do you like swimming or hiking better?");
+new AddQuestion("casual","What is something you would change about your family if you could?");
+new AddQuestion("relationship","If you had an ideal outfit for me, what would it be?");
+new AddQuestion("relationship","What is something I've said lately that has stuck with you?");
+new AddQuestion("casual","When you make it to heaven one day, what is the first place you want to go?");
+new AddQuestion("casual","When you make it to heaven one day, who is the first person you'll want to see?");
+new AddQuestion("casual","How do you feel about the direction your country is going?");
+new AddQuestion("casual","What is your favorite vegetable?");
+new AddQuestion("casual","What is your favorite fruit?");
+new AddQuestion("casual","What kind of special dish/food are you craving right now that you haven't had in a while?");
+new AddQuestion("casual","Do you like to go fishing?");
+new AddQuestion("relationship","How do you feel about hugs and kisses?");
+new AddQuestion("casual","If you read a book, what type of book do you like to read?");
+new AddQuestion("casual","What is something cool that's happened with your friends/family lately?");
+new AddQuestion("casual","What is something that you're afraid of, but realize would help you in the long run?");
+new AddQuestion("casual","How do you feel about phone calls?");
+new AddQuestion("casual","What is something about your country that puzzles/confuses you?");
+new AddQuestion("casual","What is a Bible Verse that you really love?");
+new AddQuestion("casual","Do the people around you inspire you to be your very best?");
+new AddQuestion("casual","What kind of creative things do you do, that makes you smile?");
+new AddQuestion("casual","If you could do anything with me right now, what would it be?");
+new AddQuestion("casual","If you could ask me any question right now, what would it be?");
+new AddQuestion("casual","What is something you saw recently that you really wanted to buy?");
+new AddQuestion("casual","What is some clothing you saw that you really wanted to buy recently?");
+new AddQuestion("relationship","If you could change my style, what kind of style would you feel suits me?");
+new AddQuestion("relationship","When you are tired, do you imagine cuddling with me?");
+new AddQuestion("relationship","Be honest, do you feel safe with me on a normal basis?");
+new AddQuestion("relationship","What song do you feel is our song, that's so us?");
+new AddQuestion("casual","What is something that's been on your mind lately that's weighing on you?");
+new AddQuestion("casual","What kind of weather do you like the most?");
+new AddQuestion("casual","Are you an introvert, extrovert, or a mix of both?");
+new AddQuestion("casual","Do you like going to parties or large gatherings?");
+new AddQuestion("casual","What things in nature or scenes make you smile inside?");
+new AddQuestion("casual","What is your favorite animal in the world?");
+new AddQuestion("casual","What was your favorite subject when you went to school?");
+new AddQuestion("casual","If money was no issue, what job would you do the rest of your life?");
+new AddQuestion("casual","What is an interesting fact that you've heard lately?");
+new AddQuestion("casual","What is the coolest tv show or movie you've seen recently?");
+new AddQuestion("casual","What movie or tv show is coming out that you're excited to see?");
+new AddQuestion("casual","What is something you find interesting in someone that's attractive?");
+new AddQuestion("casual","What is one of your favorite childhood memories?");
+new AddQuestion("casual","What kinds of hobbies are you into?");
+new AddQuestion("casual","Name the first food that comes to your mind....GO!");
+new AddQuestion("casual","Name a place you'd like to go right now if you could?");
+new AddQuestion("relationship","When you're out with me, do you like holding hands, kissing, hugging in public?");
+new AddQuestion("casual","If you could see any sight right now, what would it be?");
+new AddQuestion("casual","What kind of traditions about your culture do you love the most?");
+new AddQuestion("casual","What do you love the most about your country?");
+new AddQuestion("casual","What are some things you dislike about your country?");
+new AddQuestion("relationship","How do you feel about having children one day?");
+new AddQuestion("relationship","Do you enjoy hugs and kisses, holding hands and things like that?");
+new AddQuestion("casual", "What is your favorite childhood memory?");
+new AddQuestion("casual","What kind of books do you like to read?");
+new AddQuestion("casual","If you could go picnicking, where would you want to go right now?");
+new AddQuestion("casual","Name the first food that comes to your mind, Go!");
+new AddQuestion("casual","What are some of your favorite hobbies?");
+new AddQuestion("casual", "What is the coolest thing that happened to you today?");
+new AddQuestion("casual", "What was something that annoyed you today?");
+new AddQuestion("casual", "What kind of chikackika/gossip have you heard lately?");
 new AddQuestion("casual", "What is the name of your favorite pet as a child?");
 new AddQuestion("casual", "What is your favorite color?");
 new AddQuestion("casual", "Where would you like to visit one day?");
@@ -82,6 +155,42 @@ new AddQuestion("casual","If you could change something about yourself physicall
 new AddQuestion("casual","If you could change something about your life, what would it be?");
 new AddQuestion("relationship","What makes you swoon about me?");
 new AddQuestion("relationship","What is something about who I am that makes you feel blessed to be with me?");
+new AddQuestion("casual","If you could do anything right now with me, what would it be?");
+new AddQuestion("casual","Who was your favorite pet as a child?");
+new AddQuestion("casual","How do you think social media has changed society and why?");
+new AddQuestion("casual","Do you think we'd be better off without social media?");
+new AddQuestion("casual","What is the coolest website you've seen recently?");
+new AddQuestion("casual","What is your hope for your family in the future?");
+new AddQuestion("casual","How do you feel about where you are in life right now?");
+new AddQuestion("casual","What is something that is weighing on your mind recently?");
+new AddQuestion("casual","What is a cool phone game you've seen recently?");
+new AddQuestion("relationship","How do you feel when you miss me, and how do you feel that feeling?");
+new AddQuestion("casual","Beach or Meadow for picnic?");
+new AddQuestion("casual","Forest or Beach?");
+new AddQuestion("casual","Desert or Jungle?");
+new AddQuestion("casual","Do you think you could survive in the jungle?");
+new AddQuestion("casual","Do you think you could survive in the desert?");
+new AddQuestion("casual","What is the wildest thing you've seen lately?");
+new AddQuestion("casual","What is something gross you've seen lately?");
+new AddQuestion("casual","Does talking about your day make you feel better or more stressed out?");
+new AddQuestion("casual","How do you deal with feelings of stress and anxiety?");
+new AddQuestion("relationship","What is your favorite song that I sing for you?");
+new AddQuestion("relationship","If you could hear me sing any song right now, what would it be?");
+new AddQuestion("casual","Old School style house decorating or New Style house decorating or a mix?");
+new AddQuestion("casual","What does home feel like for you?");
+new AddQuestion("casual","How do you feel about others cleaning the house with you?");
+new AddQuestion("casual","How does it feel to talk through emotions, does it feel stressful or like a release?");
+new AddQuestion("casual","What is your favorite source of happiness in your daily life?");
+new AddQuestion("casual","What is your favorite piece of clothing recently?");
+new AddQuestion("relationship","What is something about me that you love the most and would never change?");
+new AddQuestion("casual","What is your favorite part about yourself that you love?");
+new AddQuestion("casual","How does it feel to talk about yourself?");
+new AddQuestion("casual","What is something funny you've seen your pets do lately?");
+new AddQuestion("casual","What is something you've learned growing up, that you had to unlearn?");
+new AddQuestion("casual","As you've grown older, what is something about your parents/elders you learned?");
+new AddQuestion("relationship","What is something I do, that helps you to feel heard and seen?");
+new AddQuestion("casual","What do you think is the coolest part about me?");
+new AddQuestion("relationship","Is there something I've done that you are craving to see more of?");
 
 new AddQuestion("relationship","What do you feel you've sacrificed the most being in this relationship?");
 new AddQuestion("relationship","What do you know now that you wish you knew in the beginning of our relationship?");
@@ -262,16 +371,7 @@ new AddQuestion("relationship","What's you favorite ritual we have together?");
 new AddQuestion("relationship","When am I your Hero?");
 new AddQuestion("relationship","In our relationship, when did you feel most alone and what did you learn from it?");
 new AddQuestion("relationship","When do we argue and how does resolving conflict make us better as a couple?");
-new AddQuestion("?");
 
-
-//let relationship = questions.filter(q=>q.category==="relationship").length;
-//This only gives you how many questions have the 'relationship' category
-let relationship = questions.filter(q=>q.category==='relationship');
-let relationArr= Math.floor(Math.random()*relationship.length);
-let random = relationship[relationArr].question;
-//makes sense, this doesn't have the .length
-let casual = questions.filter(q=>q.category==="casual").length;
 
 
 
@@ -280,3 +380,198 @@ let casual = questions.filter(q=>q.category==="casual").length;
 //One function for the 'casual' questions, just the ones for fun and friendly maybe joking
 //One function for the 'relationship' questions, the deeper ones my gwapa prinsesa will appreciate
 //One function that is to mix all of these. This will be the first function and easiest to write
+//By locking into functions, I can bring up whenever the button is used.
+
+
+let main =document.querySelector('main');
+
+
+
+//main.innerHTML=''; IS AWESOME!! REMOVES ALL INNER HTML ELEMENTS
+//main.textContent=''; is much better and does the same thing
+
+
+
+
+
+
+
+
+
+
+
+
+//ALL QUESTIONS
+
+let mixRandom = ()=>{
+
+  main.textContent='';
+
+    let gameName= document.createElement('div');
+        if(gameName){
+          gameName.textContent='Connect';
+          gameName.classList.add('gameName');
+        }
+    let container = document.createElement('div');
+        if(container){
+          container.classList.add('container');
+          
+        }
+    let randomButton = document.createElement('button');
+        if(randomButton){
+          randomButton.textContent='Random';
+          randomButton.classList.add('randomButton');
+
+        }
+
+        randomButton.addEventListener('click', ()=>{
+          let random = Math.floor(Math.random()*questions.length);
+          let mixer = questions[random];
+
+          container.textContent=mixer.question;
+
+        })
+
+    main.appendChild(gameName);
+    main.appendChild(container);
+    main.appendChild(randomButton);
+
+    
+}
+
+
+
+
+
+
+//CASUAL QUESTIONS
+
+let mixCasual = ()=>{
+
+    main.textContent='';
+
+    let gameName= document.createElement('div');
+        if(gameName){
+          gameName.textContent='Connect';
+          gameName.classList.add('gameName');
+        }
+    let container = document.createElement('div');
+        if(container){
+          container.classList.add('container');
+          
+        }
+    let randomButton = document.createElement('button');
+        if(randomButton){
+          randomButton.textContent='Random';
+          randomButton.classList.add('randomButton');
+
+        }
+
+        randomButton.addEventListener('click', ()=>{
+          let casual = questions.filter(q=>q.category==='casual');
+          let random = Math.floor(Math.random()*casual.length);
+          let mixer = casual[random];
+
+          container.textContent=mixer.question;
+
+        })
+
+    main.appendChild(gameName);
+    main.appendChild(container);
+    main.appendChild(randomButton);
+
+    
+}
+
+
+
+//RELATIONSHIP QUESTIONS
+
+
+let mixRelationship = ()=>{
+
+    main.textContent='';
+
+    let gameName= document.createElement('div');
+        if(gameName){
+          gameName.textContent='Connect';
+          gameName.classList.add('gameName');
+        }
+    let container = document.createElement('div');
+        if(container){
+          container.classList.add('container');
+          
+        }
+    let randomButton = document.createElement('button');
+        if(randomButton){
+          randomButton.textContent='Random';
+          randomButton.classList.add('randomButton');
+
+        }
+
+        randomButton.addEventListener('click', ()=>{
+          let relationship = questions.filter(q=>q.category==='relationship');
+          let random = Math.floor(Math.random()*relationship.length);
+          let mixer = relationship[random];
+
+          container.textContent=mixer.question;
+
+        })
+
+    main.appendChild(gameName);
+    main.appendChild(container);
+    main.appendChild(randomButton);
+
+    
+}
+
+
+
+
+
+//CHOICEPAGE
+let entryPage = ()=>{
+
+    main.textContent='';
+
+    let startPage = document.createElement('div');
+      if(startPage){
+        startPage.classList.add('startPage');
+        main.appendChild(startPage);
+      }
+      //Better to do the styling in the CSS file, hence why I gave a class
+
+    let title = document.createElement('div');
+      if(title){
+        title.classList.add('title');
+        title.textContent='You and Me';
+        startPage.appendChild(title);
+      }
+
+    let casualQ = document.createElement('div');
+        if(casualQ){
+          casualQ.classList.add('casualQ');
+          casualQ.textContent="Casual";
+          startPage.appendChild(casualQ);
+        }
+
+    let relationshipQ = document.createElement('div')
+        if(relationshipQ){
+          relationshipQ.classList.add('relationshipQ')
+          relationshipQ.textContent="Relationship";
+          startPage.appendChild(relationshipQ);
+        }
+
+    let allQ = document.createElement('div');
+        if(allQ){
+          allQ.classList.add('allQ')
+          allQ.textContent="All Questions";
+          startPage.appendChild(allQ);
+        }
+    
+        casualQ.addEventListener('click',mixCasual);
+        relationshipQ.addEventListener('click', mixRelationship);
+        allQ.addEventListener('click', mixRandom);
+}
+
+console.log(entryPage());
