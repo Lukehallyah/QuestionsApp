@@ -15,11 +15,6 @@ function AddQuestion(category, question){
     //describebox.textContent=choose.description;
 //}
 
-
-
-new AddQuestion("?");
-new AddQuestion("casual","?");
-new AddQuestion("relationship","?");
 new AddQuestion("casual","What genre of music is your favorite?");
 new AddQuestion("casual","Where do you like to go or visit when you want to clear your head?");
 new AddQuestion("casual","What do you feel, is the meaning of life, what is life all about to you?");
@@ -391,16 +386,6 @@ let main =document.querySelector('main');
 //main.textContent=''; is much better and does the same thing
 
 
-
-
-
-
-
-
-
-
-
-
 //ALL QUESTIONS
 
 let mixRandom = ()=>{
@@ -432,10 +417,27 @@ let mixRandom = ()=>{
 
         })
 
+      let backButton = document.createElement('button');
+        if(backButton){
+          backButton.textContent='Back';
+          backButton.classList.add('backButton');
+        }
+
+        backButton.addEventListener('click', entryPage);
+
+      let holdButton=document.createElement('div');
+        if(holdButton){
+          holdButton.classList.add('holdButton');
+        }
+    
+    holdButton.appendChild(randomButton);
+    holdButton.appendChild(backButton);
     main.appendChild(gameName);
     main.appendChild(container);
-    main.appendChild(randomButton);
+    main.appendChild(holdButton);
 
+    // main.appendChild(randomButton);
+    // main.appendChild(backButton);
     
 }
 
@@ -476,11 +478,24 @@ let mixCasual = ()=>{
 
         })
 
+      let backButton = document.createElement('button');
+        if(backButton){
+          backButton.textContent='Back';
+          backButton.classList.add('backButton');
+        }
+
+        backButton.addEventListener('click', entryPage);
+      
+      let holdButton=document.createElement('div');
+        if(holdButton){
+          holdButton.classList.add('holdButton');
+        }
+    
+    holdButton.appendChild(randomButton);
+    holdButton.appendChild(backButton);
     main.appendChild(gameName);
     main.appendChild(container);
-    main.appendChild(randomButton);
-
-    
+    main.appendChild(holdButton);
 }
 
 
@@ -518,11 +533,25 @@ let mixRelationship = ()=>{
 
         })
 
+      let backButton = document.createElement('button');
+        if(backButton){
+          backButton.textContent='Back';
+          backButton.classList.add('backButton');
+        }
+
+        backButton.addEventListener('click', entryPage);
+
+
+      let holdButton=document.createElement('div');
+        if(holdButton){
+          holdButton.classList.add('holdButton');
+        }
+    
+    holdButton.appendChild(randomButton);
+    holdButton.appendChild(backButton);
     main.appendChild(gameName);
     main.appendChild(container);
-    main.appendChild(randomButton);
-
-    
+    main.appendChild(holdButton);
 }
 
 
