@@ -54,8 +54,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 html, body {
-    overflow-x: hidden;
-    overflow-y: hidden;
+    /* overflow-x: hidden;
+    overflow-y: hidden; */
 }
 
 
@@ -67,7 +67,7 @@ body{
 main{
     margin: 0;
     padding: 0;
-    height: 100vh;
+    height: 100dvh;
     width: 100%;
     display: flex;
     justify-content: center;
