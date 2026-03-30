@@ -395,7 +395,7 @@ let mixRandom = ()=>{
     let gameName= document.createElement('div');
         if(gameName){
           gameName.textContent='Random Mix';
-          gameName.style.fontSize='3.75rem';
+          gameName.style.fontSize='3.5rem';
           gameName.classList.add('gameName');
         }
     let container = document.createElement('div');
