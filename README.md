@@ -35,3 +35,17 @@ Could link each of these buttons to a specific function let casual = ()=>{}
 
 Make three functions set to variables that are called when the buttons are pressed 
             button.addEventListener('click', function());
+
+
+
+ENTRYPAGE
+I want to make a page to give the user a choice of what questions they want. 
+
+Can be relationship, casual, or mixOfBoth.
+
+So for my gwapa prinsesa, baby I'm just gonna make a function that loads when the page loads. 
+It's going to have 3 buttons and whichever one you click gets rid of the load page and loads that one.
+I also should make a back button
+
+
+

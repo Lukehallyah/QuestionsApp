@@ -394,7 +394,8 @@ let mixRandom = ()=>{
 
     let gameName= document.createElement('div');
         if(gameName){
-          gameName.textContent='Connect';
+          gameName.textContent='Random Mix';
+          gameName.style.fontSize='3.75rem';
           gameName.classList.add('gameName');
         }
     let container = document.createElement('div');
@@ -454,7 +455,7 @@ let mixCasual = ()=>{
 
     let gameName= document.createElement('div');
         if(gameName){
-          gameName.textContent='Connect';
+          gameName.textContent='Casual';
           gameName.classList.add('gameName');
         }
     let container = document.createElement('div');
@@ -509,7 +510,7 @@ let mixRelationship = ()=>{
 
     let gameName= document.createElement('div');
         if(gameName){
-          gameName.textContent='Connect';
+          gameName.textContent='Relationship';
           gameName.classList.add('gameName');
         }
     let container = document.createElement('div');
@@ -573,7 +574,7 @@ let entryPage = ()=>{
     let title = document.createElement('div');
       if(title){
         title.classList.add('title');
-        title.textContent='You and Me';
+        title.textContent='You and Me my Love';
         startPage.appendChild(title);
       }
 
