@@ -575,6 +575,8 @@ let entryPage = ()=>{
       if(title){
         title.classList.add('title');
         title.textContent='You and Me my Love';
+        title.style.marginTop="0";
+        title.style.paddingTop="0";
         startPage.appendChild(title);
       }
 
